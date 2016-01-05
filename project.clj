@@ -8,4 +8,6 @@
                  [ring/ring "1.2.0"]
                  [hiccup "1.0.4"]
                  [ring/ring-json "0.2.0"]
-                 [compojure "1.2.0-SNAPSHOT"]])
+                 [compojure "1.2.0-SNAPSHOT"]
+                 [mysql/mysql-connector-java "5.1.25"]
+                 [org.clojure/java.jdbc "0.3.0-alpha5"]])
